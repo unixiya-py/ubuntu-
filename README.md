@@ -18,3 +18,6 @@ sudo apt-get remove unity-webapps-common
 
 ### 将启动器移动到屏幕底部
 $ gsettings set com.canonical.Unity.Launcher launcher-position Bottom
+
+### openbox
+sudo apt-get install openbox obmenu obconf tint2 volti xfce4-mixer xfce4-power-manager nitrogen clipit gmrun gksu dmenu
